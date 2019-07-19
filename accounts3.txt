@@ -1,0 +1,9 @@
+1000 10 0
+1000 10 0
+1000 10 0
+1000 10 0
+1000 10 0
+1000 10 0
+
+(Test basic calculations to check for calculation
+errors and correct # of accounts detected)

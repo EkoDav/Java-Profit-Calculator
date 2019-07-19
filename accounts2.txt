@@ -1,0 +1,6 @@
+-150 11.1 11
+222.22 26 22
+3333.33 13 34
+
+(Data to test one of each in its own line: invalid initial balance,
+invalid interest rate, and invalid monthly percentage payment)

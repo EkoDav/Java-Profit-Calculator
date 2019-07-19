@@ -1,0 +1,5 @@
+1111.11 11.1 11
+222.22 4 22
+3333.33 13 33
+
+(Test to see if output values match program instructions)
